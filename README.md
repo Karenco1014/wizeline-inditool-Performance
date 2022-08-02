@@ -27,4 +27,4 @@ Clone the repo into your local machine:
 ## Before to run
 
 - run: cd /Users/youuser/namefolder/apache-jmeter-5.5/bin
-- run: sh jmeter.sh ) the .env with your credentials
+- run: sh jmeter.sh )
